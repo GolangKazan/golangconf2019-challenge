@@ -7,7 +7,7 @@
 The winner will get a free ticket to a conference.
 
 How to participate:
-1. Make a public post with both `#GolangKazan` and `#GolangConf2019` hash tags.
+1. Make a public post that contains a link to [this repository](https://github.com/GolangKazan/golangconf2019-challenge) with both `#GolangKazan` and `#GolangConf2019` hash tags.
 2. Fork this repository.
 3. Add yourself in `challenge.go` file variable `gophers`.
 4. Send a [Pull Request](https://help.github.com/en/articles/creating-a-pull-request) with your changes.
