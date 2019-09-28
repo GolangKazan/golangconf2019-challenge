@@ -9,7 +9,7 @@ import (
 func TestWinner(t *testing.T) {
 	// ignore is a set of people who don't/can't participate.
 	ignore := map[string]bool{
-		// "Iskander Sharipov/quasilyte": true,
+		"Iskander Sharipov/quasilyte": true,
 	}
 
 	// filtered is a list of participating gophers.
