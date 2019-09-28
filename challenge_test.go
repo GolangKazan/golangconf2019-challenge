@@ -7,12 +7,6 @@ import (
 )
 
 func TestWinner(t *testing.T) {
-	// ignore is a set of people who don't/can't participate.
-	ignore := map[string]bool{
-		"Iskander Sharipov/quasilyte": true,
-		"Oleg Kovalov/cridstaloleg":   true,
-	}
-
 	// filtered is a list of participating gophers.
 	// Basically, a gophers list without ignored members.
 	filtered := []gopher{}
@@ -32,15 +26,15 @@ func TestWinner(t *testing.T) {
 			continue
 		}
 
-		if ignore[g.key()] {
-			continue
-		}
-
 		if keys[g.key()] {
 			t.Errorf("gopher[%d] (%s) is a duplicate", i, g.name)
 			continue
 		}
 		keys[g.key()] = true
+
+		if g.tester {
+			continue
+		}
 
 		filtered = append(filtered, g)
 	}

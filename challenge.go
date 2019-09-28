@@ -4,15 +4,21 @@ package challenge
 //
 // Used in tests (see challenge_test.go).
 var gophers = []gopher{
+	// Participants (add yourself below):
+
+	// Testers. Do not need to contain a valid URL in post,
+	// but should be included in "ignore" list inside a WinnerTest().
 	{
-		name: "Iskander Sharipov",
-		id:   "quasilyte",
-		post: "https://todo.add.a.post/123",
+		name:   "Iskander Sharipov",
+		id:     "quasilyte",
+		post:   "https://todo.add.a.post/123",
+		tester: true,
 	},
 	{
-		name: "Oleg Kovalov",
-		id:   "cristaloleg",
-		post: "https://prodam.garaz",
+		name:   "Oleg Kovalov",
+		id:     "cristaloleg",
+		post:   "https://prodam.garaz",
+		tester: true,
 	},
 }
 
@@ -38,6 +44,9 @@ type gopher struct {
 	//	2. Post must survive until we stop the challenge and announce the winner.
 	//	3. Account that does the announcement must have at least 10 followers/subscribers.
 	post string
+
+	// tester can submit invalid post string, but can't win a prize.
+	tester bool
 }
 
 // key returns a hopefully unique participant key.
