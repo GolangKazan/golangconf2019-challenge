@@ -12,7 +12,7 @@ var gophers = []gopher{
 	},
 
 	// Testers. Do not need to contain a valid URL in post,
-	// but should be included in "ignore" list inside a WinnerTest().
+	// but should use `tester: true` and can't win a prize.
 	{
 		name:   "Iskander Sharipov",
 		id:     "quasilyte",
