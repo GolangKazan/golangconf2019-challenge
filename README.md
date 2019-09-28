@@ -32,6 +32,8 @@ Example (how "printed" winner may look like):
 
 Pull Requests are accepted until 23:59 of September 30 (Moscow time).
 
+If there are less than 5 participants, we can't grant any gifts, therefore, invite your friends!
+
 <hr>
 
 For a post there are several things to be considered:
