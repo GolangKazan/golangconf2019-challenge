@@ -1,6 +1,6 @@
 [travis-image]: https://travis-ci.org/GolangKazan/golangconf2019-challenge.svg?branch=master
 [travis-url]: https://travis-ci.org/GolangKazan/golangconf2019-challenge
-[![Build Status][travis-image]][travis-url]
+[![Build Status][travis-image]][travis-url] <- Check to see a current winner
 
 [GolangConf 2019](https://golangconf.ru/2019) challenge from and for [GolangKazan](https://golangkazan.github.io/) community!
 
@@ -17,6 +17,10 @@ How to participate:
 We print winner after tests are finished.
 
 When we'll stop this challenge, the last printed winner will be awarded.
+
+Example (how "printed" winner may look like):
+
+![](https://habrastorage.org/webt/kl/kk/k7/klkkk7zghbwmsuwefnaqxhyv3-y.jpeg)
 
 <hr>
 
