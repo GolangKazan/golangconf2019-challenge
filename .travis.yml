@@ -4,6 +4,4 @@ go:
 install:
   - # Prevent default install action "go get -t -v ./...".
 script:
-  - go get -t -v ./...
-  - go tool vet .
   - go test -v -race ./...

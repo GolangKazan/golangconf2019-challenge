@@ -9,12 +9,6 @@ var gophers = []gopher{
 		id:   "quasilyte",
 		post: "https://todo.add.a.post/123",
 	},
-
-	{
-		name: "Alex Sharipov",
-		id:   "quasilyte",
-		post: "https://todo.add.a.post/23",
-	},
 }
 
 // gopher is a struct that describes GolangKazan GolangConf-2019 challenge participant.
