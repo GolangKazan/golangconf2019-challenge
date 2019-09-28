@@ -5,7 +5,12 @@ package challenge
 // Used in tests (see challenge_test.go).
 var gophers = []gopher{
 	// Participants (add yourself below):
-
+	{
+		name:   "Alexander Kiryukhin",
+		id:     "neonxp",
+		post:   "https://vk.com/feed?w=wall476865374_157",
+		tester: false,
+	},
 	// Testers. Do not need to contain a valid URL in post,
 	// but should be included in "ignore" list inside a WinnerTest().
 	{
