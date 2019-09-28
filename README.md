@@ -39,6 +39,8 @@ For a post there are several things to be considered:
 Possible sites that can be used for a public post: [vk](http://vk.com/), [twitter](http://twitter.com/), [instagram](https://www.instagram.com).<br>
 Note that you can use other social network, channel.
 
+Example of the post that can be used: https://twitter.com/GolangKazan/status/1177939214437994496.
+
 <hr>
 
 If you have any questions, feel free to ask them at https://t.me/GolangKazan channel.
