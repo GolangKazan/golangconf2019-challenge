@@ -1,6 +1,8 @@
 [travis-image]: https://travis-ci.org/GolangKazan/golangconf2019-challenge.svg?branch=master
 [travis-url]: https://travis-ci.org/GolangKazan/golangconf2019-challenge
-[![Build Status][travis-image]][travis-url] <- Check to see a current winner
+
+↶ Check to see a current winner<br>
+[![Build Status][travis-image]][travis-url] 
 
 [GolangConf 2019](https://golangconf.ru/2019) challenge from and for [GolangKazan](https://golangkazan.github.io/) community!
 
