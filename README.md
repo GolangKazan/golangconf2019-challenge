@@ -30,6 +30,8 @@ Example (how "printed" winner may look like):
 
 ![](https://habrastorage.org/webt/kl/kk/k7/klkkk7zghbwmsuwefnaqxhyv3-y.jpeg)
 
+Pull Requests are accepted until 23:59 of September 30 (Moscow time).
+
 <hr>
 
 For a post there are several things to be considered:
