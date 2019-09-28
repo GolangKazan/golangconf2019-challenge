@@ -10,6 +10,7 @@ func TestWinner(t *testing.T) {
 	// ignore is a set of people who don't/can't participate.
 	ignore := map[string]bool{
 		"Iskander Sharipov/quasilyte": true,
+		"Oleg Kovalov/cridstaloleg":   true,
 	}
 
 	// filtered is a list of participating gophers.
