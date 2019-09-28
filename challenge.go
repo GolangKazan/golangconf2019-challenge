@@ -35,6 +35,12 @@ var gophers = []gopher{
 		post:   "https://prodam.garaz",
 		tester: true,
 	},
+	{
+		name:   "Alik Khilazhev",
+		id:     "alikhil",
+		post:   "https://super-puper.post/yoy",
+		tester: true,
+	},
 }
 
 // gopher is a struct that describes GolangKazan GolangConf-2019 challenge participant.
