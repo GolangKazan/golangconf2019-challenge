@@ -5,7 +5,7 @@ package challenge
 // Used in tests (see challenge_test.go).
 var gophers = []gopher{
 	{
-		name: "Iskander Sharipov",
+		 name: "Iskander Sharipov",
 		id:   "quasilyte",
 		post: "https://todo.add.a.post/123",
 	},
