@@ -19,6 +19,10 @@ var gophers = []gopher{
 		name: "Sharapov Arkadiy",
 		id:   "avsharapov",
 		post: "https://www.instagram.com/p/B29dy8Pg9BT/",
+  },
+		name: "Nikita Vanyasin",
+		id:   "nikita-vanyasin",
+		post: "https://www.facebook.com/nikita.vanyasin/posts/1312245865615823",
 	},
 
 	// Testers. Do not need to contain a valid URL in post,
@@ -33,6 +37,12 @@ var gophers = []gopher{
 		name:   "Oleg Kovalov",
 		id:     "cristaloleg",
 		post:   "https://prodam.garaz",
+		tester: true,
+	},
+	{
+		name:   "Alik Khilazhev",
+		id:     "alikhil",
+		post:   "https://super-puper.post/yoy",
 		tester: true,
 	},
 }
