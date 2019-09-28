@@ -16,6 +16,11 @@ var gophers = []gopher{
 		post: "https://vk.com/wall4220274_3221",
 	},
 	{
+		name: "Sharapov Arkadiy",
+		id:   "avsharapov",
+		post: "https://www.instagram.com/p/B29dy8Pg9BT/",
+	},
+	{
 		name: "Nikita Vanyasin",
 		id:   "nikita-vanyasin",
 		post: "https://www.facebook.com/nikita.vanyasin/posts/1312245865615823",
