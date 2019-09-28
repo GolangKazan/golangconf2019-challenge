@@ -6,11 +6,11 @@ package challenge
 var gophers = []gopher{
 	// Participants (add yourself below):
 	{
-		name:   "Alexander Kiryukhin",
-		id:     "neonxp",
-		post:   "https://vk.com/feed?w=wall476865374_157",
-		tester: false,
+		name: "Alexander Kiryukhin",
+		id:   "neonxp",
+		post: "https://vk.com/feed?w=wall476865374_157",
 	},
+
 	// Testers. Do not need to contain a valid URL in post,
 	// but should be included in "ignore" list inside a WinnerTest().
 	{
