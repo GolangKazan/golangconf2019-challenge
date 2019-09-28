@@ -39,9 +39,11 @@ func TestWinner(t *testing.T) {
 		filtered = append(filtered, g)
 	}
 
-	if len(filtered) != 0 {
+	if len(filtered) < 5 {
 		rand.Seed(time.Now().UTC().UnixNano())
 		winner := rand.Intn(len(filtered))
 		t.Logf("The winner is: %s!", filtered[winner].key())
+	} else {
+		t.Log("Not enough participants")
 	}
 }
