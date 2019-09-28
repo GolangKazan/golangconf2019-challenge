@@ -5,3 +5,4 @@ install:
   - # Prevent default install action "go get -t -v ./...".
 script:
   - go test -v -race ./...
+  - diff -u <(echo -n) <(gofmt -d ./)
