@@ -8,6 +8,8 @@
 
 The winner will get a free ticket to a conference.
 
+## Get involved! Win a free ticket GolangConf!
+
 How to participate:
 1. Make a public post that contains a link to [this repository](https://github.com/GolangKazan/golangconf2019-challenge) with both `#GolangKazan` and `#GolangConf2019` hash tags.
 2. Fork this repository.
@@ -16,7 +18,11 @@ How to participate:
 5. If CI tests will pass, your contribution will be merged.
 6. When PR is merged, you're awesome and can potentially win a prize.
 
+## How the winner is selected
+
 We print winner after tests are finished.
+Your pull request triggers a new CI build.
+Inside that build logs, info line about the winner is printed.
 
 When we'll stop this challenge, the last printed winner will be awarded.
 
