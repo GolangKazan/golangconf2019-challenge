@@ -50,6 +50,11 @@ var gophers = []gopher{
 		id:   "ivantaran",
 		post: "https://www.instagram.com/p/B3AOS9TFtSI/",
 	},
+	{
+		name: "Nur Kutlugallyamov",
+		id:   "milQA",
+		post: "https://vk.com/wall302234537_938",
+	},
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
 
@@ -59,12 +64,6 @@ var gophers = []gopher{
 		name:   "Iskander Sharipov",
 		id:     "quasilyte",
 		post:   "https://todo.add.a.post/123",
-		tester: true,
-	},
-	{
-		name:   "Nur Kutlugallyamov",
-		id:     "milQA",
-		post:   "https://vk.com/wall302234537_938",
 		tester: true,
 	},
 	{
