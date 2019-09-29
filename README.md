@@ -31,7 +31,7 @@ When we'll stop this challenge, the last printed winner will be awarded.
 
 Example (how "printed" winner may look like):
 
-![](https://habrastorage.org/webt/kl/kk/k7/klkkk7zghbwmsuwefnaqxhyv3-y.jpeg)
+![](https://user-images.githubusercontent.com/6286655/65824375-83629000-e270-11e9-95fd-4a93a7a9fa88.png)
 
 Deadlines:
 * Kazan: 23:59 of September 30 (Moscow time)
