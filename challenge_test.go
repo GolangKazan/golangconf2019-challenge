@@ -6,10 +6,19 @@ import (
 	"time"
 )
 
+func runWinnerTest(t *testing.T, gophers []gopher) {
+	if len(gophers) >= 5 {
+		rand.Seed(time.Now().UTC().UnixNano())
+		winner := rand.Intn(len(gophers))
+		t.Logf("The winner is: %s!", gophers[winner].key())
+	} else {
+		t.Log("Not enough participants")
+	}
+}
+
 func TestWinner(t *testing.T) {
-	// filtered is a list of participating gophers.
-	// Basically, a gophers list without ignored members.
-	filtered := []gopher{}
+	kazanGophers := []gopher{}
+	nizhnyGophers := []gopher{}
 
 	// keys is a set of all participants keys.
 	// Needed to detect collisions.
@@ -36,14 +45,17 @@ func TestWinner(t *testing.T) {
 			continue
 		}
 
-		filtered = append(filtered, g)
+		if g.nizhnyNovgorod {
+			nizhnyGophers = append(nizhnyGophers, g)
+		} else {
+			kazanGophers = append(kazanGophers, g)
+		}
 	}
 
-	if len(filtered) >= 5 {
-		rand.Seed(time.Now().UTC().UnixNano())
-		winner := rand.Intn(len(filtered))
-		t.Logf("The winner is: %s!", filtered[winner].key())
-	} else {
-		t.Log("Not enough participants")
-	}
+	t.Run("Kazan", func(t *testing.T) {
+		runWinnerTest(t, kazanGophers)
+	})
+	t.Run("NizhnyNovgorod", func(t *testing.T) {
+		runWinnerTest(t, nizhnyGophers)
+	})
 }

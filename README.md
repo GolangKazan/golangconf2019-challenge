@@ -18,6 +18,9 @@ How to participate:
 5. If CI tests will pass, your contribution will be merged.
 6. When PR is merged, you're awesome and can potentially win a prize.
 
+**Update**: [Nizhny Novgorod](https://vk.com/golang_nizhny) community can also participate.
+Just use `nizhnyNovgorod: true` field when adding a `gopher` entry.
+
 ## How the winner is selected
 
 We print winner after tests are finished.
@@ -30,7 +33,9 @@ Example (how "printed" winner may look like):
 
 ![](https://habrastorage.org/webt/kl/kk/k7/klkkk7zghbwmsuwefnaqxhyv3-y.jpeg)
 
-Pull Requests are accepted until 23:59 of September 30 (Moscow time).
+Deadlines:
+* Kazan: 23:59 of September 30 (Moscow time)
+* Nizhny Novgorod: 23:59 of October 1 (Moscow time)
 
 If there are less than 5 participants, we can't grant any gifts, therefore, invite your friends!
 
