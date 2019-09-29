@@ -60,7 +60,6 @@ var gophers = []gopher{
 		name:   "Nur Kutlugallyamov",
 		id:     "milQA",
 		post:   "https://vk.com/wall302234537_938",
-		tester: true,
 	},
 	{
 		name:   "Oleg Kovalov",
