@@ -18,6 +18,9 @@ How to participate:
 5. If CI tests will pass, your contribution will be merged.
 6. When PR is merged, you're awesome and can potentially win a prize.
 
+**Update**: [Nizhny Novgorod](https://vk.com/golang_nizhny) community can also participate.
+Just use `nizhnyNovgorod: true` field when adding a `gopher` entry.
+
 ## How the winner is selected
 
 We print winner after tests are finished.

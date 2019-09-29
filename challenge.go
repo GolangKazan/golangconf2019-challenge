@@ -31,6 +31,8 @@ var gophers = []gopher{
 		post: "https://vk.com/bontequero?w=wall140207068_146",
 	},
 
+	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
+
 	// Testers. Do not need to contain a valid URL in post,
 	// but should use `tester: true` and can't win a prize.
 	{
@@ -84,6 +86,10 @@ type gopher struct {
 
 	// tester can submit invalid post string, but can't win a prize.
 	tester bool
+
+	// nizhnyNovgorod tells whether a participant is a part of Nizhny Novgorod
+	// Go community.
+	nizhnyNovgorod bool
 }
 
 // key returns a hopefully unique participant key.
