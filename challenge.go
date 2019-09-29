@@ -30,6 +30,12 @@ var gophers = []gopher{
 		id:   "bontequero",
 		post: "https://vk.com/bontequero?w=wall140207068_146",
 	},
+	
+	{
+		name: "Ilya Zaharov",
+		id:   "zoh",
+		post: "https://www.instagram.com/p/B2_vmNIB3At/",
+	},
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
 
