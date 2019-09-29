@@ -60,7 +60,7 @@ var gophers = []gopher{
 		id:   "profbis",
 		post: "https://vk.com/profbis?w=wall13681269_3829",
 	},
-  {
+	{
 		name: "Alik Khilazhev",
 		id:   "alikhil",
 		post: "https://vk.com/alikhil?w=wall122186426_669",
