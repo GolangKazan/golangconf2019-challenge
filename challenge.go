@@ -38,7 +38,7 @@ var gophers = []gopher{
 	{
 		name: "Pavel Sukhodoev",
 		id:   "xcyxoux",
-		post: "https://twitter.com/xcyxoux",
+		post: "https://twitter.com/GolangKazan/status/1177939214437994496", // Retweet
 	},
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
