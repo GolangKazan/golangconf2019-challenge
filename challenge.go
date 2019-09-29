@@ -30,7 +30,6 @@ var gophers = []gopher{
 		id:   "bontequero",
 		post: "https://vk.com/bontequero?w=wall140207068_146",
 	},
-	
 	{
 		name: "Ilya Zaharov",
 		id:   "zoh",
