@@ -55,6 +55,11 @@ var gophers = []gopher{
 		id:   "milQA",
 		post: "https://vk.com/wall302234537_938",
 	},
+	{
+		name: "Alik Khilazhev",
+		id:   "alikhil",
+		post: "https://vk.com/alikhil?w=wall122186426_669",
+	},
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
 
@@ -70,12 +75,6 @@ var gophers = []gopher{
 		name:   "Oleg Kovalov",
 		id:     "cristaloleg",
 		post:   "https://prodam.garaz",
-		tester: true,
-	},
-	{
-		name:   "Alik Khilazhev",
-		id:     "alikhil",
-		post:   "https://super-puper.post/yoy",
 		tester: true,
 	},
 }
