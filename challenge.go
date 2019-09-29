@@ -46,9 +46,9 @@ var gophers = []gopher{
 		post: "https://twitter.com/vadimgorbunov/status/1178323050518974468",
 	},
 	{
-		name:   "Nur Kutlugallyamov",
-		id:     "milQA",
-		post:   "https://vk.com/wall302234537_938",
+		name: "Nur Kutlugallyamov",
+		id:   "milQA",
+		post: "https://vk.com/wall302234537_938",
 	},
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
