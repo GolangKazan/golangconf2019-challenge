@@ -66,6 +66,11 @@ var gophers = []gopher{
 		post: "https://vk.com/alikhil?w=wall122186426_669",
 	},
 	{
+		name: "Rinat Baygildin",
+		id:   "bayrinat",
+		post: "https://www.instagram.com/p/B3B2PxAoXmf/?igshid=1o0caviaryfs7",
+	},
+	{
 		name: "Ivan Nikiforov",
 		id:   "niki4",
 		post: "https://twitter.com/_niki4_/status/1178589754025238528",
