@@ -96,7 +96,7 @@ var gophers = []gopher{
 	{
 		name:           "Martynenko Andrey",
 		id:             "lergor11",
-		post:           "https://twitter.com/lergor11/status/1178569646473175040",
+		post:           "https://www.instagram.com/p/B3CWbcyJL4e/?igshid=1ox7r7atvjkr or https://twitter.com/lergor11/status/1178569646473175040",
 		nizhnyNovgorod: true,
 	},
 	{
