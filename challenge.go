@@ -70,8 +70,20 @@ var gophers = []gopher{
 		id:   "niki4",
 		post: "https://twitter.com/_niki4_/status/1178589754025238528",
 	},
+	{
+		name: "Dmitry Merkushin",
+		id:   "merkushin",
+		post: "https://twitter.com/merkushin/status/1178595009140068352",
+	},
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
+
+	{
+		name:           "Aleksey Ryabchikov",
+		id:             "aryabchi",
+		post:           "https://vk.com/id27102990?w=wall27102990_3493",
+		nizhnyNovgorod: true,
+	},
 
 	// Testers. Do not need to contain a valid URL in post,
 	// but should use `tester: true` and can't win a prize.
