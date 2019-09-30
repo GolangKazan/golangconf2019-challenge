@@ -100,6 +100,12 @@ var gophers = []gopher{
 		post:           "https://vk.com/dakolistratova?w=wall18700317_3332",
 		nizhnyNovgorod: true,
 	},
+	{
+		name:           "Victor Ryabinin",
+		id:             "mmvds",
+		post:           "https://vk.com/vitek_ru?w=wall1966944_986",
+		nizhnyNovgorod: true,
+	},
 
 	// Testers. Do not need to contain a valid URL in post,
 	// but should use `tester: true` and can't win a prize.
