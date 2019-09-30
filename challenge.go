@@ -85,6 +85,12 @@ var gophers = []gopher{
 		id:   "merkushin",
 		post: "https://twitter.com/merkushin/status/1178595009140068352",
 	},
+	{
+		name: "Linar Khilazhev",
+		id:   "linzet",
+		post: "https://vk.com/wall319755752_148",
+	},
+
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
 	{
