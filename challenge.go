@@ -94,6 +94,12 @@ var gophers = []gopher{
 		post:           "https://twitter.com/lergor11/status/1178569646473175040",
 		nizhnyNovgorod: true,
 	},
+	{
+		name:           "Daria Kolistratova",
+		id:             "dakolistratova",
+		post:           "https://vk.com/dakolistratova?w=wall18700317_3332",
+		nizhnyNovgorod: true,
+	},
 
 	// Testers. Do not need to contain a valid URL in post,
 	// but should use `tester: true` and can't win a prize.
