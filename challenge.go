@@ -82,11 +82,16 @@ var gophers = []gopher{
 	},
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
-
 	{
 		name:           "Aleksey Ryabchikov",
 		id:             "aryabchi",
 		post:           "https://vk.com/id27102990?w=wall27102990_3493",
+		nizhnyNovgorod: true,
+	},
+	{
+		name:           "Martynenko Andrey",
+		id:             "lergor11",
+		post:           "https://twitter.com/lergor11/status/1178569646473175040",
 		nizhnyNovgorod: true,
 	},
 
