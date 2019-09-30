@@ -65,6 +65,11 @@ var gophers = []gopher{
 		id:   "alikhil",
 		post: "https://vk.com/alikhil?w=wall122186426_669",
 	},
+	{
+		name: "Rinat Baygildin",
+		id:   "bayrinat",
+		post: "https://www.instagram.com/p/B3B2PxAoXmf/?igshid=1o0caviaryfs7",
+	},
 
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
 
