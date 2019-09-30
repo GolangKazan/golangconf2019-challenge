@@ -28,7 +28,7 @@ var gophers = []gopher{
 	{
 	    	name: "Shamil Timirgaleev",
 	    	id:   "shamiltim",
-	    	post: "https://vk.com/wall1391672_10"
+	    	post: "https://vk.com/wall1391672_10",
 	},
 	{
 		name: "Nikita Vanyasin",
