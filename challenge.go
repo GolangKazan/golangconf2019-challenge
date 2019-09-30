@@ -26,9 +26,9 @@ var gophers = []gopher{
 		post: "https://www.instagram.com/p/B29dy8Pg9BT/",
 	},
 	{
-	    	name: "Shamil Timirgaleev",
-	    	id:   "shamiltim",
-	    	post: "https://vk.com/wall1391672_10",
+		name: "Shamil Timirgaleev",
+		id:   "shamiltim",
+		post: "https://vk.com/wall1391672_10",
 	},
 	{
 		name: "Nikita Vanyasin",
