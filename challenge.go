@@ -91,6 +91,11 @@ var gophers = []gopher{
 		post: "https://twitter.com/merkushin/status/1178595009140068352",
 	},
 	{
+		name: "Asiya Garipova",
+		id:   "etelinda",
+		post: "https://vk.com/asiya.garipova?w=wall1951589_6213",
+	},
+	{
 		name: "Linar Khilazhev",
 		id:   "linzet",
 		post: "https://vk.com/wall319755752_148",
