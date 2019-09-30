@@ -96,7 +96,6 @@ var gophers = []gopher{
 		post: "https://vk.com/wall319755752_148",
 	},
 
-
 	// Participants from Nizhny Novgorod (https://vk.com/golang_nizhny):
 	{
 		name:           "Aleksey Ryabchikov",
