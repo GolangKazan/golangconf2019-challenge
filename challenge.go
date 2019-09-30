@@ -6,6 +6,11 @@ package challenge
 var gophers = []gopher{
 	// Participants (add yourself below):
 	{
+		name: "Golubev Maxim",
+		id:   "mgolubev",
+		post: "https://twitter.com/MaximGolubev8/status/1178645447222730752?s=09",
+	},
+	{
 		name: "Alexander Kiryukhin",
 		id:   "neonxp",
 		post: "https://vk.com/feed?w=wall476865374_157",
@@ -104,6 +109,12 @@ var gophers = []gopher{
 		name:           "Daria Kolistratova",
 		id:             "dakolistratova",
 		post:           "https://vk.com/dakolistratova?w=wall18700317_3332",
+		nizhnyNovgorod: true,
+	},
+	{
+		name:           "Victor Ryabinin",
+		id:             "mmvds",
+		post:           "https://vk.com/vitek_ru?w=wall1966944_986",
 		nizhnyNovgorod: true,
 	},
 
