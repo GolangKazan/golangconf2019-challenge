@@ -100,6 +100,12 @@ var gophers = []gopher{
 		nizhnyNovgorod: true,
 	},
 	{
+		name:           "Alexander Medov",
+		id:             "samuel-loog",
+		post:           "https://twitter.com/samuel_loog/status/1178639500345520128",
+		nizhnyNovgorod: true,
+	},
+	{
 		name:           "Daria Kolistratova",
 		id:             "dakolistratova",
 		post:           "https://vk.com/dakolistratova?w=wall18700317_3332",
