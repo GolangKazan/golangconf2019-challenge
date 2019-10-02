@@ -10,7 +10,7 @@ The winner will get a free ticket to a conference.
 
 Winners:
 * Kazan: [build 116](https://travis-ci.org/GolangKazan/golangconf2019-challenge/builds/591720038) - [@bayrinat](https://github.com/bayrinat)
-* Nizhny Novgorod: to be announced
+* Nizhny Novgorod: [build 119](https://travis-ci.org/GolangKazan/golangconf2019-challenge/builds/592219046) - [@samuel-loog](https://github.com/samuel-loog)
 
 ## Get involved! Win a free ticket GolangConf!
 
